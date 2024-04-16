@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559273068540",
+    "project_id": "cosc-326-for-class",
+    "storage_bucket": "cosc-326-for-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559273068540:android:d708e7a1f2723a2004d479",
+        "android_client_info": {
+          "package_name": "com.example.firebaseinclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0PNC1eI9oh81xEi_Ju56_qNkukQeVvJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
