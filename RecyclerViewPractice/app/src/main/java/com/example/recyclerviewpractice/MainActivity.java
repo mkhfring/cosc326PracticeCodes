@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        CustomAdapter adapter = new CustomAdapter(itemList);
+        CustomAdapter adapter = new CustomAdapter(itemList, this);
         recyclerView.setAdapter(adapter);
 
 
