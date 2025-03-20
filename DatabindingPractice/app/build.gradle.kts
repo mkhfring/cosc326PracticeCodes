@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.recyclerviewpractice"
+    namespace = "com.example.databindingpractice"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.recyclerviewpractice"
+        applicationId = "com.example.databindingpractice"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

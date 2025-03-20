@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.recyclerviewpractice"
+    namespace = "com.example.petshop"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.recyclerviewpractice"
+        applicationId = "com.example.petshop"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -28,9 +28,6 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
-    }
-    buildFeatures{
-        dataBinding = true
     }
 }
 
