@@ -28,6 +28,4 @@ public abstract class ContactDatabase extends RoomDatabase{
     }
 
 
-
-
 }

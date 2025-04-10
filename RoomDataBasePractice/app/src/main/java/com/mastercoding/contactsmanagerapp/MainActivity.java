@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         // Database:
-        contactDatabase = ContactDatabase.getInstance(this);
+//        contactDatabase = ContactDatabase.getInstance(this);
 
         // View Model:
          viewModel = new ViewModelProvider(this)

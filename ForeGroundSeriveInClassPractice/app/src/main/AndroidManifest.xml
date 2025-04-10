@@ -23,8 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <service android:name=".ForeGroundService"
-        android:foregroundServiceType="mediaPlayback"
+        <service android:name=".backGroundService"
+
             />
     </application>
 
